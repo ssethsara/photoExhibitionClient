@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'snapit'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0768b307c60b4777888eaa2b8fa1d25e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dde3226b8121444d8b350eac0d27a35d }}
         package: .
